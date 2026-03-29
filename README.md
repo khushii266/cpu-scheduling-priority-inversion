@@ -58,13 +58,13 @@ To resolve this:
 ### Compile
 
 ```bash
-gcc simulation.c -o simulation
+gcc priority.c -o priority
 ```
 
 ### Execute
 
 ```bash
-./simulation
+./priority
 ```
 
 ---
